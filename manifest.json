@@ -1,0 +1,1130 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-16T21:04:38.187Z",
+  "totalBytes": 11387913,
+  "corpora": [
+    {
+      "id": "mishna",
+      "title": "משנה",
+      "file": "mishna.zip",
+      "bytes": 681077,
+      "sha256": "ffc155cac2913fbf6e65c85eecd540a0d08655490cb9db7439decb9d0f945b10",
+      "packs": [
+        {
+          "id": "mishna-arakhin",
+          "title": "מסכת ערכין",
+          "chapters": 9,
+          "file": "mishna-arakhin.json",
+          "bytes": 49695
+        },
+        {
+          "id": "mishna-avodah-zarah",
+          "title": "מסכת עבודה זרה",
+          "chapters": 5,
+          "file": "mishna-avodah-zarah.json",
+          "bytes": 45663
+        },
+        {
+          "id": "mishna-avot",
+          "title": "מסכת אבות",
+          "chapters": 6,
+          "file": "mishna-avot.json",
+          "bytes": 89590
+        },
+        {
+          "id": "mishna-bava-batra",
+          "title": "מסכת בבא בתרא",
+          "chapters": 10,
+          "file": "mishna-bava-batra.json",
+          "bytes": 86983
+        },
+        {
+          "id": "mishna-bava-kamma",
+          "title": "מסכת בבא קמא",
+          "chapters": 10,
+          "file": "mishna-bava-kamma.json",
+          "bytes": 79450
+        },
+        {
+          "id": "mishna-bava-metzia",
+          "title": "מסכת בבא מציעא",
+          "chapters": 10,
+          "file": "mishna-bava-metzia.json",
+          "bytes": 92158
+        },
+        {
+          "id": "mishna-beitzah",
+          "title": "מסכת ביצה",
+          "chapters": 5,
+          "file": "mishna-beitzah.json",
+          "bytes": 30329
+        },
+        {
+          "id": "mishna-bekhorot",
+          "title": "מסכת בכורות",
+          "chapters": 9,
+          "file": "mishna-bekhorot.json",
+          "bytes": 71434
+        },
+        {
+          "id": "mishna-berakhot",
+          "title": "מסכת ברכות",
+          "chapters": 9,
+          "file": "mishna-berakhot.json",
+          "bytes": 44017
+        },
+        {
+          "id": "mishna-bikkurim",
+          "title": "מסכת ביכורים",
+          "chapters": 4,
+          "file": "mishna-bikkurim.json",
+          "bytes": 29032
+        },
+        {
+          "id": "mishna-chagigah",
+          "title": "מסכת חגיגה",
+          "chapters": 3,
+          "file": "mishna-chagigah.json",
+          "bytes": 18209
+        },
+        {
+          "id": "mishna-challah",
+          "title": "מסכת חלה",
+          "chapters": 4,
+          "file": "mishna-challah.json",
+          "bytes": 26906
+        },
+        {
+          "id": "mishna-chullin",
+          "title": "מסכת חולין",
+          "chapters": 12,
+          "file": "mishna-chullin.json",
+          "bytes": 73115
+        },
+        {
+          "id": "mishna-demai",
+          "title": "מסכת דמאי",
+          "chapters": 7,
+          "file": "mishna-demai.json",
+          "bytes": 38244
+        },
+        {
+          "id": "mishna-eduyot",
+          "title": "מסכת עדיות",
+          "chapters": 8,
+          "file": "mishna-eduyot.json",
+          "bytes": 73345
+        },
+        {
+          "id": "mishna-eruvin",
+          "title": "מסכת עירובין",
+          "chapters": 10,
+          "file": "mishna-eruvin.json",
+          "bytes": 76562
+        },
+        {
+          "id": "mishna-gittin",
+          "title": "מסכת גיטין",
+          "chapters": 9,
+          "file": "mishna-gittin.json",
+          "bytes": 70192
+        },
+        {
+          "id": "mishna-horayot",
+          "title": "מסכת הוריות",
+          "chapters": 3,
+          "file": "mishna-horayot.json",
+          "bytes": 19070
+        },
+        {
+          "id": "mishna-kelim",
+          "title": "מסכת כלים",
+          "chapters": 30,
+          "file": "mishna-kelim.json",
+          "bytes": 206316
+        },
+        {
+          "id": "mishna-keritot",
+          "title": "מסכת כריתות",
+          "chapters": 6,
+          "file": "mishna-keritot.json",
+          "bytes": 49026
+        },
+        {
+          "id": "mishna-ketubot",
+          "title": "מסכת כתובות",
+          "chapters": 13,
+          "file": "mishna-ketubot.json",
+          "bytes": 99451
+        },
+        {
+          "id": "mishna-kiddushin",
+          "title": "מסכת קידושין",
+          "chapters": 4,
+          "file": "mishna-kiddushin.json",
+          "bytes": 43464
+        },
+        {
+          "id": "mishna-kilayim",
+          "title": "מסכת כלאים",
+          "chapters": 9,
+          "file": "mishna-kilayim.json",
+          "bytes": 59070
+        },
+        {
+          "id": "mishna-kinnim",
+          "title": "מסכת קינים",
+          "chapters": 3,
+          "file": "mishna-kinnim.json",
+          "bytes": 17347
+        },
+        {
+          "id": "mishna-maaser-sheni",
+          "title": "מסכת מעשר שני",
+          "chapters": 5,
+          "file": "mishna-maaser-sheni.json",
+          "bytes": 46579
+        },
+        {
+          "id": "mishna-maasrot",
+          "title": "מסכת מעשרות",
+          "chapters": 5,
+          "file": "mishna-maasrot.json",
+          "bytes": 32076
+        },
+        {
+          "id": "mishna-makhshirin",
+          "title": "מסכת מכשירין",
+          "chapters": 6,
+          "file": "mishna-makhshirin.json",
+          "bytes": 43390
+        },
+        {
+          "id": "mishna-makkot",
+          "title": "מסכת מכות",
+          "chapters": 3,
+          "file": "mishna-makkot.json",
+          "bytes": 37912
+        },
+        {
+          "id": "mishna-megillah",
+          "title": "מסכת מגילה",
+          "chapters": 4,
+          "file": "mishna-megillah.json",
+          "bytes": 27545
+        },
+        {
+          "id": "mishna-meilah",
+          "title": "מסכת מעילה",
+          "chapters": 6,
+          "file": "mishna-meilah.json",
+          "bytes": 35027
+        },
+        {
+          "id": "mishna-menachot",
+          "title": "מסכת מנחות",
+          "chapters": 13,
+          "file": "mishna-menachot.json",
+          "bytes": 100721
+        },
+        {
+          "id": "mishna-middot",
+          "title": "מסכת מידות",
+          "chapters": 5,
+          "file": "mishna-middot.json",
+          "bytes": 43669
+        },
+        {
+          "id": "mishna-mikvaot",
+          "title": "מסכת מקוואות",
+          "chapters": 10,
+          "file": "mishna-mikvaot.json",
+          "bytes": 62737
+        },
+        {
+          "id": "mishna-moed-katan",
+          "title": "מסכת מועד קטן",
+          "chapters": 3,
+          "file": "mishna-moed-katan.json",
+          "bytes": 17313
+        },
+        {
+          "id": "mishna-nazir",
+          "title": "מסכת נזיר",
+          "chapters": 9,
+          "file": "mishna-nazir.json",
+          "bytes": 57517
+        },
+        {
+          "id": "mishna-nedarim",
+          "title": "מסכת נדרים",
+          "chapters": 11,
+          "file": "mishna-nedarim.json",
+          "bytes": 82439
+        },
+        {
+          "id": "mishna-negaim",
+          "title": "מסכת נגעים",
+          "chapters": 14,
+          "file": "mishna-negaim.json",
+          "bytes": 106793
+        },
+        {
+          "id": "mishna-niddah",
+          "title": "מסכת נידה",
+          "chapters": 10,
+          "file": "mishna-niddah.json",
+          "bytes": 62036
+        },
+        {
+          "id": "mishna-oholot",
+          "title": "מסכת אהלות",
+          "chapters": 18,
+          "file": "mishna-oholot.json",
+          "bytes": 118480
+        },
+        {
+          "id": "mishna-orlah",
+          "title": "מסכת ערלה",
+          "chapters": 3,
+          "file": "mishna-orlah.json",
+          "bytes": 22205
+        },
+        {
+          "id": "mishna-parah",
+          "title": "מסכת פרה",
+          "chapters": 12,
+          "file": "mishna-parah.json",
+          "bytes": 77511
+        },
+        {
+          "id": "mishna-peah",
+          "title": "מסכת פאה",
+          "chapters": 8,
+          "file": "mishna-peah.json",
+          "bytes": 49672
+        },
+        {
+          "id": "mishna-pesachim",
+          "title": "מסכת פסחים",
+          "chapters": 10,
+          "file": "mishna-pesachim.json",
+          "bytes": 74932
+        },
+        {
+          "id": "mishna-rosh-hashanah",
+          "title": "מסכת ראש השנה",
+          "chapters": 4,
+          "file": "mishna-rosh-hashanah.json",
+          "bytes": 31568
+        },
+        {
+          "id": "mishna-sanhedrin",
+          "title": "מסכת סנהדרין",
+          "chapters": 11,
+          "file": "mishna-sanhedrin.json",
+          "bytes": 93976
+        },
+        {
+          "id": "mishna-shabbat",
+          "title": "מסכת שבת",
+          "chapters": 24,
+          "file": "mishna-shabbat.json",
+          "bytes": 110824
+        },
+        {
+          "id": "mishna-shekalim",
+          "title": "מסכת שקלים",
+          "chapters": 8,
+          "file": "mishna-shekalim.json",
+          "bytes": 49102
+        },
+        {
+          "id": "mishna-sheviit",
+          "title": "מסכת שביעית",
+          "chapters": 10,
+          "file": "mishna-sheviit.json",
+          "bytes": 67704
+        },
+        {
+          "id": "mishna-shevuot",
+          "title": "מסכת שבועות",
+          "chapters": 8,
+          "file": "mishna-shevuot.json",
+          "bytes": 63219
+        },
+        {
+          "id": "mishna-sotah",
+          "title": "מסכת סוטה",
+          "chapters": 9,
+          "file": "mishna-sotah.json",
+          "bytes": 73133
+        },
+        {
+          "id": "mishna-sukkah",
+          "title": "מסכת סוכה",
+          "chapters": 5,
+          "file": "mishna-sukkah.json",
+          "bytes": 43737
+        },
+        {
+          "id": "mishna-taanit",
+          "title": "מסכת תענית",
+          "chapters": 4,
+          "file": "mishna-taanit.json",
+          "bytes": 34902
+        },
+        {
+          "id": "mishna-taharot",
+          "title": "מסכת טהרות",
+          "chapters": 10,
+          "file": "mishna-taharot.json",
+          "bytes": 75921
+        },
+        {
+          "id": "mishna-tamid",
+          "title": "מסכת תמיד",
+          "chapters": 7,
+          "file": "mishna-tamid.json",
+          "bytes": 41048
+        },
+        {
+          "id": "mishna-temurah",
+          "title": "מסכת תמורה",
+          "chapters": 7,
+          "file": "mishna-temurah.json",
+          "bytes": 36541
+        },
+        {
+          "id": "mishna-terumot",
+          "title": "מסכת תרומות",
+          "chapters": 11,
+          "file": "mishna-terumot.json",
+          "bytes": 74360
+        },
+        {
+          "id": "mishna-tevul-yom",
+          "title": "מסכת טבול יום",
+          "chapters": 4,
+          "file": "mishna-tevul-yom.json",
+          "bytes": 22286
+        },
+        {
+          "id": "mishna-uktzin",
+          "title": "מסכת עוקצין",
+          "chapters": 3,
+          "file": "mishna-uktzin.json",
+          "bytes": 22136
+        },
+        {
+          "id": "mishna-yadayim",
+          "title": "מסכת ידיים",
+          "chapters": 4,
+          "file": "mishna-yadayim.json",
+          "bytes": 29580
+        },
+        {
+          "id": "mishna-yevamot",
+          "title": "מסכת יבמות",
+          "chapters": 16,
+          "file": "mishna-yevamot.json",
+          "bytes": 124613
+        },
+        {
+          "id": "mishna-yoma",
+          "title": "מסכת יומא",
+          "chapters": 8,
+          "file": "mishna-yoma.json",
+          "bytes": 56948
+        },
+        {
+          "id": "mishna-zavim",
+          "title": "מסכת זבים",
+          "chapters": 5,
+          "file": "mishna-zavim.json",
+          "bytes": 30240
+        },
+        {
+          "id": "mishna-zevachim",
+          "title": "מסכת זבחים",
+          "chapters": 14,
+          "file": "mishna-zevachim.json",
+          "bytes": 99813
+        }
+      ]
+    },
+    {
+      "id": "rambam",
+      "title": "רמב״ם",
+      "file": "rambam.zip",
+      "bytes": 370731,
+      "sha256": "81c239524bd9a7a15e092f40505eee2c92eb8019a65d5b6d3cf771ec8fe67b68",
+      "packs": [
+        {
+          "id": "rambam-avodah-zarah",
+          "title": "הלכות עבודה זרה וחוקות הגויים",
+          "chapters": 12,
+          "file": "rambam-avodah-zarah.json",
+          "bytes": 194063
+        },
+        {
+          "id": "rambam-berakhot",
+          "title": "הלכות ברכות",
+          "chapters": 11,
+          "file": "rambam-berakhot.json",
+          "bytes": 175390
+        },
+        {
+          "id": "rambam-chametz",
+          "title": "הלכות חמץ ומצה",
+          "chapters": 8,
+          "file": "rambam-chametz.json",
+          "bytes": 116369
+        },
+        {
+          "id": "rambam-deot",
+          "title": "הלכות דעות",
+          "chapters": 7,
+          "file": "rambam-deot.json",
+          "bytes": 109707
+        },
+        {
+          "id": "rambam-keriat-shema",
+          "title": "הלכות קריאת שמע",
+          "chapters": 4,
+          "file": "rambam-keriat-shema.json",
+          "bytes": 54787
+        },
+        {
+          "id": "rambam-melakhim",
+          "title": "הלכות מלכים ומלחמותיהם",
+          "chapters": 12,
+          "file": "rambam-melakhim.json",
+          "bytes": 144585
+        },
+        {
+          "id": "rambam-shabbat",
+          "title": "הלכות שבת",
+          "chapters": 30,
+          "file": "rambam-shabbat.json",
+          "bytes": 661550
+        },
+        {
+          "id": "rambam-talmud-torah",
+          "title": "הלכות תלמוד תורה",
+          "chapters": 7,
+          "file": "rambam-talmud-torah.json",
+          "bytes": 94851
+        },
+        {
+          "id": "rambam-tefillah",
+          "title": "הלכות תפילה וברכת כהנים",
+          "chapters": 15,
+          "file": "rambam-tefillah.json",
+          "bytes": 260051
+        },
+        {
+          "id": "rambam-teshuvah",
+          "title": "הלכות תשובה",
+          "chapters": 10,
+          "file": "rambam-teshuvah.json",
+          "bytes": 127240
+        },
+        {
+          "id": "rambam-yesodei-hatorah",
+          "title": "הלכות יסודי התורה",
+          "chapters": 10,
+          "file": "rambam-yesodei-hatorah.json",
+          "bytes": 138601
+        }
+      ]
+    },
+    {
+      "id": "shua",
+      "title": "שולחן ערוך",
+      "file": "shua.zip",
+      "bytes": 1872095,
+      "sha256": "a6c8173402d3f7b1eeea2a0d71cfed31cd905ff97e09eb091e0a3f009eaebe51",
+      "packs": [
+        {
+          "id": "shua-choshen-mishpat",
+          "title": "שולחן ערוך — חושן משפט",
+          "chapters": 427,
+          "file": "shua-choshen-mishpat.json",
+          "bytes": 2989539
+        },
+        {
+          "id": "shua-even-haezer",
+          "title": "שולחן ערוך — אבן העזר",
+          "chapters": 178,
+          "file": "shua-even-haezer.json",
+          "bytes": 1307494
+        },
+        {
+          "id": "shua-orach-chayim",
+          "title": "שולחן ערוך — אורח חיים",
+          "chapters": 697,
+          "file": "shua-orach-chayim.json",
+          "bytes": 2647726
+        },
+        {
+          "id": "shua-yoreh-deah",
+          "title": "שולחן ערוך — יורה דעה",
+          "chapters": 402,
+          "file": "shua-yoreh-deah.json",
+          "bytes": 2622530
+        }
+      ]
+    },
+    {
+      "id": "talmud",
+      "title": "תלמוד בבלי",
+      "file": "talmud.zip",
+      "bytes": 6668008,
+      "sha256": "14aea909cc0af9bb01f8e481f306e8680659c52d3e74ee178f7f2b5e16a9cc81",
+      "packs": [
+        {
+          "id": "talmud-arakhin",
+          "title": "מסכת ערכין (בבלי)",
+          "chapters": 33,
+          "file": "talmud-arakhin.json",
+          "bytes": 602750
+        },
+        {
+          "id": "talmud-avodah-zarah",
+          "title": "מסכת עבודה זרה (בבלי)",
+          "chapters": 75,
+          "file": "talmud-avodah-zarah.json",
+          "bytes": 1223590
+        },
+        {
+          "id": "talmud-bava-batra",
+          "title": "מסכת בבא בתרא (בבלי)",
+          "chapters": 175,
+          "file": "talmud-bava-batra.json",
+          "bytes": 2118132
+        },
+        {
+          "id": "talmud-bava-kamma",
+          "title": "מסכת בבא קמא (בבלי)",
+          "chapters": 118,
+          "file": "talmud-bava-kamma.json",
+          "bytes": 2152552
+        },
+        {
+          "id": "talmud-bava-metzia",
+          "title": "מסכת בבא מציעא (בבלי)",
+          "chapters": 118,
+          "file": "talmud-bava-metzia.json",
+          "bytes": 2038443
+        },
+        {
+          "id": "talmud-beitzah",
+          "title": "מסכת ביצה (בבלי)",
+          "chapters": 39,
+          "file": "talmud-beitzah.json",
+          "bytes": 598110
+        },
+        {
+          "id": "talmud-bekhorot",
+          "title": "מסכת בכורות (בבלי)",
+          "chapters": 60,
+          "file": "talmud-bekhorot.json",
+          "bytes": 1003334
+        },
+        {
+          "id": "talmud-berakhot",
+          "title": "מסכת ברכות (בבלי)",
+          "chapters": 63,
+          "file": "talmud-berakhot.json",
+          "bytes": 1602529
+        },
+        {
+          "id": "talmud-chagigah",
+          "title": "מסכת חגיגה (בבלי)",
+          "chapters": 26,
+          "file": "talmud-chagigah.json",
+          "bytes": 426998
+        },
+        {
+          "id": "talmud-chullin",
+          "title": "מסכת חולין (בבלי)",
+          "chapters": 141,
+          "file": "talmud-chullin.json",
+          "bytes": 2195354
+        },
+        {
+          "id": "talmud-eruvin",
+          "title": "מסכת עירובין (בבלי)",
+          "chapters": 104,
+          "file": "talmud-eruvin.json",
+          "bytes": 1723450
+        },
+        {
+          "id": "talmud-gittin",
+          "title": "מסכת גיטין (בבלי)",
+          "chapters": 89,
+          "file": "talmud-gittin.json",
+          "bytes": 1499637
+        },
+        {
+          "id": "talmud-horayot",
+          "title": "מסכת הוריות (בבלי)",
+          "chapters": 13,
+          "file": "talmud-horayot.json",
+          "bytes": 280142
+        },
+        {
+          "id": "talmud-keritot",
+          "title": "מסכת כריתות (בבלי)",
+          "chapters": 27,
+          "file": "talmud-keritot.json",
+          "bytes": 633305
+        },
+        {
+          "id": "talmud-ketubot",
+          "title": "מסכת כתובות (בבלי)",
+          "chapters": 111,
+          "file": "talmud-ketubot.json",
+          "bytes": 1713803
+        },
+        {
+          "id": "talmud-kiddushin",
+          "title": "מסכת קידושין (בבלי)",
+          "chapters": 81,
+          "file": "talmud-kiddushin.json",
+          "bytes": 1382325
+        },
+        {
+          "id": "talmud-makkot",
+          "title": "מסכת מכות (בבלי)",
+          "chapters": 23,
+          "file": "talmud-makkot.json",
+          "bytes": 392664
+        },
+        {
+          "id": "talmud-megillah",
+          "title": "מסכת מגילה (בבלי)",
+          "chapters": 31,
+          "file": "talmud-megillah.json",
+          "bytes": 682588
+        },
+        {
+          "id": "talmud-meilah",
+          "title": "מסכת מעילה (בבלי)",
+          "chapters": 21,
+          "file": "talmud-meilah.json",
+          "bytes": 221783
+        },
+        {
+          "id": "talmud-menachot",
+          "title": "מסכת מנחות (בבלי)",
+          "chapters": 109,
+          "file": "talmud-menachot.json",
+          "bytes": 1836361
+        },
+        {
+          "id": "talmud-moed-katan",
+          "title": "מסכת מועד קטן (בבלי)",
+          "chapters": 28,
+          "file": "talmud-moed-katan.json",
+          "bytes": 552240
+        },
+        {
+          "id": "talmud-nazir",
+          "title": "מסכת נזיר (בבלי)",
+          "chapters": 65,
+          "file": "talmud-nazir.json",
+          "bytes": 665406
+        },
+        {
+          "id": "talmud-nedarim",
+          "title": "מסכת נדרים (בבלי)",
+          "chapters": 90,
+          "file": "talmud-nedarim.json",
+          "bytes": 819391
+        },
+        {
+          "id": "talmud-niddah",
+          "title": "מסכת נדה (בבלי)",
+          "chapters": 72,
+          "file": "talmud-niddah.json",
+          "bytes": 1267037
+        },
+        {
+          "id": "talmud-pesachim",
+          "title": "מסכת פסחים (בבלי)",
+          "chapters": 120,
+          "file": "talmud-pesachim.json",
+          "bytes": 1937488
+        },
+        {
+          "id": "talmud-rosh-hashanah",
+          "title": "מסכת ראש השנה (בבלי)",
+          "chapters": 34,
+          "file": "talmud-rosh-hashanah.json",
+          "bytes": 579010
+        },
+        {
+          "id": "talmud-sanhedrin",
+          "title": "מסכת סנהדרין (בבלי)",
+          "chapters": 112,
+          "file": "talmud-sanhedrin.json",
+          "bytes": 2369870
+        },
+        {
+          "id": "talmud-shabbat",
+          "title": "מסכת שבת (בבלי)",
+          "chapters": 156,
+          "file": "talmud-shabbat.json",
+          "bytes": 2488072
+        },
+        {
+          "id": "talmud-shevuot",
+          "title": "מסכת שבועות (בבלי)",
+          "chapters": 48,
+          "file": "talmud-shevuot.json",
+          "bytes": 803150
+        },
+        {
+          "id": "talmud-sotah",
+          "title": "מסכת סוטה (בבלי)",
+          "chapters": 48,
+          "file": "talmud-sotah.json",
+          "bytes": 895166
+        },
+        {
+          "id": "talmud-sukkah",
+          "title": "מסכת סוכה (בבלי)",
+          "chapters": 55,
+          "file": "talmud-sukkah.json",
+          "bytes": 756180
+        },
+        {
+          "id": "talmud-taanit",
+          "title": "מסכת תענית (בבלי)",
+          "chapters": 30,
+          "file": "talmud-taanit.json",
+          "bytes": 580092
+        },
+        {
+          "id": "talmud-tamid",
+          "title": "מסכת תמיד (בבלי)",
+          "chapters": 0,
+          "file": "talmud-tamid.json",
+          "bytes": 140
+        },
+        {
+          "id": "talmud-temurah",
+          "title": "מסכת תמורה (בבלי)",
+          "chapters": 33,
+          "file": "talmud-temurah.json",
+          "bytes": 576882
+        },
+        {
+          "id": "talmud-yevamot",
+          "title": "מסכת יבמות (בבלי)",
+          "chapters": 121,
+          "file": "talmud-yevamot.json",
+          "bytes": 2024700
+        },
+        {
+          "id": "talmud-yoma",
+          "title": "מסכת יומא (בבלי)",
+          "chapters": 87,
+          "file": "talmud-yoma.json",
+          "bytes": 1288315
+        },
+        {
+          "id": "talmud-zevachim",
+          "title": "מסכת זבחים (בבלי)",
+          "chapters": 119,
+          "file": "talmud-zevachim.json",
+          "bytes": 1792451
+        }
+      ]
+    },
+    {
+      "id": "tanakh",
+      "title": "תנ״ך",
+      "file": "tanakh.zip",
+      "bytes": 1796002,
+      "sha256": "9666642621624d75a991acf52b3037158e9cc9971521fc3e28791baa7de803bf",
+      "packs": [
+        {
+          "id": "tanakh-amos",
+          "title": "ספר עמוס",
+          "chapters": 9,
+          "file": "tanakh-amos.json",
+          "bytes": 58860
+        },
+        {
+          "id": "tanakh-bamidbar",
+          "title": "ספר במדבר",
+          "chapters": 36,
+          "file": "tanakh-bamidbar.json",
+          "bytes": 505421
+        },
+        {
+          "id": "tanakh-bereshit",
+          "title": "ספר בראשית",
+          "chapters": 50,
+          "file": "tanakh-bereshit.json",
+          "bytes": 615771
+        },
+        {
+          "id": "tanakh-chaggai",
+          "title": "ספר חגי",
+          "chapters": 2,
+          "file": "tanakh-chaggai.json",
+          "bytes": 16735
+        },
+        {
+          "id": "tanakh-chavakuk",
+          "title": "ספר חבקוק",
+          "chapters": 3,
+          "file": "tanakh-chavakuk.json",
+          "bytes": 21070
+        },
+        {
+          "id": "tanakh-daniel",
+          "title": "ספר דניאל",
+          "chapters": 12,
+          "file": "tanakh-daniel.json",
+          "bytes": 168924
+        },
+        {
+          "id": "tanakh-devarim",
+          "title": "ספר דברים",
+          "chapters": 34,
+          "file": "tanakh-devarim.json",
+          "bytes": 409881
+        },
+        {
+          "id": "tanakh-divrei-hayamim-1",
+          "title": "ספר דברי הימים א",
+          "chapters": 29,
+          "file": "tanakh-divrei-hayamim-1.json",
+          "bytes": 384086
+        },
+        {
+          "id": "tanakh-divrei-hayamim-2",
+          "title": "ספר דברי הימים ב",
+          "chapters": 36,
+          "file": "tanakh-divrei-hayamim-2.json",
+          "bytes": 409417
+        },
+        {
+          "id": "tanakh-eikhah",
+          "title": "מגילת איכה",
+          "chapters": 5,
+          "file": "tanakh-eikhah.json",
+          "bytes": 54438
+        },
+        {
+          "id": "tanakh-esther",
+          "title": "מגילת אסתר",
+          "chapters": 10,
+          "file": "tanakh-esther.json",
+          "bytes": 85152
+        },
+        {
+          "id": "tanakh-ezra",
+          "title": "ספר עזרא",
+          "chapters": 10,
+          "file": "tanakh-ezra.json",
+          "bytes": 115651
+        },
+        {
+          "id": "tanakh-hoshea",
+          "title": "ספר הושע",
+          "chapters": 14,
+          "file": "tanakh-hoshea.json",
+          "bytes": 74482
+        },
+        {
+          "id": "tanakh-iyov",
+          "title": "ספר איוב",
+          "chapters": 42,
+          "file": "tanakh-iyov.json",
+          "bytes": 316344
+        },
+        {
+          "id": "tanakh-kohelet",
+          "title": "מגילת קהלת",
+          "chapters": 12,
+          "file": "tanakh-kohelet.json",
+          "bytes": 88558
+        },
+        {
+          "id": "tanakh-malakhi",
+          "title": "ספר מלאכי",
+          "chapters": 3,
+          "file": "tanakh-malakhi.json",
+          "bytes": 24549
+        },
+        {
+          "id": "tanakh-melakhim-1",
+          "title": "ספר מלכים א",
+          "chapters": 22,
+          "file": "tanakh-melakhim-1.json",
+          "bytes": 374187
+        },
+        {
+          "id": "tanakh-melakhim-2",
+          "title": "ספר מלכים ב",
+          "chapters": 25,
+          "file": "tanakh-melakhim-2.json",
+          "bytes": 343824
+        },
+        {
+          "id": "tanakh-mikhah",
+          "title": "ספר מיכה",
+          "chapters": 7,
+          "file": "tanakh-mikhah.json",
+          "bytes": 42052
+        },
+        {
+          "id": "tanakh-mishlei",
+          "title": "ספר משלי",
+          "chapters": 31,
+          "file": "tanakh-mishlei.json",
+          "bytes": 271874
+        },
+        {
+          "id": "tanakh-nachum",
+          "title": "ספר נחום",
+          "chapters": 3,
+          "file": "tanakh-nachum.json",
+          "bytes": 17885
+        },
+        {
+          "id": "tanakh-nechemiah",
+          "title": "ספר נחמיה",
+          "chapters": 13,
+          "file": "tanakh-nechemiah.json",
+          "bytes": 169255
+        },
+        {
+          "id": "tanakh-ovadiah",
+          "title": "ספר עובדיה",
+          "chapters": 1,
+          "file": "tanakh-ovadiah.json",
+          "bytes": 8619
+        },
+        {
+          "id": "tanakh-rut",
+          "title": "מגילת רות",
+          "chapters": 4,
+          "file": "tanakh-rut.json",
+          "bytes": 36681
+        },
+        {
+          "id": "tanakh-shemot",
+          "title": "ספר שמות",
+          "chapters": 40,
+          "file": "tanakh-shemot.json",
+          "bytes": 487557
+        },
+        {
+          "id": "tanakh-shir-hashirim",
+          "title": "שיר השירים",
+          "chapters": 8,
+          "file": "tanakh-shir-hashirim.json",
+          "bytes": 45649
+        },
+        {
+          "id": "tanakh-shmuel-1",
+          "title": "ספר שמואל א",
+          "chapters": 31,
+          "file": "tanakh-shmuel-1.json",
+          "bytes": 373732
+        },
+        {
+          "id": "tanakh-shmuel-2",
+          "title": "ספר שמואל ב",
+          "chapters": 24,
+          "file": "tanakh-shmuel-2.json",
+          "bytes": 312036
+        },
+        {
+          "id": "tanakh-shoftim",
+          "title": "ספר שופטים",
+          "chapters": 21,
+          "file": "tanakh-shoftim.json",
+          "bytes": 279854
+        },
+        {
+          "id": "tanakh-tehillim",
+          "title": "ספר תהלים",
+          "chapters": 150,
+          "file": "tanakh-tehillim.json",
+          "bytes": 802829
+        },
+        {
+          "id": "tanakh-tzefaniah",
+          "title": "ספר צפניה",
+          "chapters": 3,
+          "file": "tanakh-tzefaniah.json",
+          "bytes": 22550
+        },
+        {
+          "id": "tanakh-vayikra",
+          "title": "ספר ויקרא",
+          "chapters": 27,
+          "file": "tanakh-vayikra.json",
+          "bytes": 346589
+        },
+        {
+          "id": "tanakh-yechezkel",
+          "title": "ספר יחזקאל",
+          "chapters": 48,
+          "file": "tanakh-yechezkel.json",
+          "bytes": 557452
+        },
+        {
+          "id": "tanakh-yehoshua",
+          "title": "ספר יהושע",
+          "chapters": 24,
+          "file": "tanakh-yehoshua.json",
+          "bytes": 290416
+        },
+        {
+          "id": "tanakh-yeshayahu",
+          "title": "ספר ישעיהו",
+          "chapters": 66,
+          "file": "tanakh-yeshayahu.json",
+          "bytes": 526271
+        },
+        {
+          "id": "tanakh-yirmiyahu",
+          "title": "ספר ירמיהו",
+          "chapters": 52,
+          "file": "tanakh-yirmiyahu.json",
+          "bytes": 619517
+        },
+        {
+          "id": "tanakh-yoel",
+          "title": "ספר יואל",
+          "chapters": 4,
+          "file": "tanakh-yoel.json",
+          "bytes": 28619
+        },
+        {
+          "id": "tanakh-yonah",
+          "title": "ספר יונה",
+          "chapters": 4,
+          "file": "tanakh-yonah.json",
+          "bytes": 19920
+        },
+        {
+          "id": "tanakh-zekhariah",
+          "title": "ספר זכריה",
+          "chapters": 14,
+          "file": "tanakh-zekhariah.json",
+          "bytes": 91792
+        }
+      ]
+    }
+  ]
+}
