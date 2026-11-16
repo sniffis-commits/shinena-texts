@@ -1,14 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T21:04:38.187Z",
-  "totalBytes": 11387913,
+  "generatedAt": "2026-11-16T21:24:33.052Z",
+  "totalBytes": 11388067,
   "corpora": [
     {
       "id": "mishna",
       "title": "משנה",
-      "file": "mishna.zip",
-      "bytes": 681077,
-      "sha256": "ffc155cac2913fbf6e65c85eecd540a0d08655490cb9db7439decb9d0f945b10",
       "packs": [
         {
           "id": "mishna-arakhin",
@@ -451,14 +448,84 @@
           "file": "mishna-zevachim.json",
           "bytes": 99813
         }
+      ],
+      "chunks": [
+        {
+          "file": "mishna-1.zip",
+          "bytes": 681077,
+          "sha256": "ffc155cac2913fbf6e65c85eecd540a0d08655490cb9db7439decb9d0f945b10",
+          "uncompressedBytes": 3768873,
+          "packs": [
+            "mishna-arakhin",
+            "mishna-avodah-zarah",
+            "mishna-avot",
+            "mishna-bava-batra",
+            "mishna-bava-kamma",
+            "mishna-bava-metzia",
+            "mishna-beitzah",
+            "mishna-bekhorot",
+            "mishna-berakhot",
+            "mishna-bikkurim",
+            "mishna-chagigah",
+            "mishna-challah",
+            "mishna-chullin",
+            "mishna-demai",
+            "mishna-eduyot",
+            "mishna-eruvin",
+            "mishna-gittin",
+            "mishna-horayot",
+            "mishna-kelim",
+            "mishna-keritot",
+            "mishna-ketubot",
+            "mishna-kiddushin",
+            "mishna-kilayim",
+            "mishna-kinnim",
+            "mishna-maaser-sheni",
+            "mishna-maasrot",
+            "mishna-makhshirin",
+            "mishna-makkot",
+            "mishna-megillah",
+            "mishna-meilah",
+            "mishna-menachot",
+            "mishna-middot",
+            "mishna-mikvaot",
+            "mishna-moed-katan",
+            "mishna-nazir",
+            "mishna-nedarim",
+            "mishna-negaim",
+            "mishna-niddah",
+            "mishna-oholot",
+            "mishna-orlah",
+            "mishna-parah",
+            "mishna-peah",
+            "mishna-pesachim",
+            "mishna-rosh-hashanah",
+            "mishna-sanhedrin",
+            "mishna-shabbat",
+            "mishna-shekalim",
+            "mishna-sheviit",
+            "mishna-shevuot",
+            "mishna-sotah",
+            "mishna-sukkah",
+            "mishna-taanit",
+            "mishna-taharot",
+            "mishna-tamid",
+            "mishna-temurah",
+            "mishna-terumot",
+            "mishna-tevul-yom",
+            "mishna-uktzin",
+            "mishna-yadayim",
+            "mishna-yevamot",
+            "mishna-yoma",
+            "mishna-zavim",
+            "mishna-zevachim"
+          ]
+        }
       ]
     },
     {
       "id": "rambam",
       "title": "רמב״ם",
-      "file": "rambam.zip",
-      "bytes": 370731,
-      "sha256": "81c239524bd9a7a15e092f40505eee2c92eb8019a65d5b6d3cf771ec8fe67b68",
       "packs": [
         {
           "id": "rambam-avodah-zarah",
@@ -537,14 +604,32 @@
           "file": "rambam-yesodei-hatorah.json",
           "bytes": 138601
         }
+      ],
+      "chunks": [
+        {
+          "file": "rambam-1.zip",
+          "bytes": 370731,
+          "sha256": "81c239524bd9a7a15e092f40505eee2c92eb8019a65d5b6d3cf771ec8fe67b68",
+          "uncompressedBytes": 2077194,
+          "packs": [
+            "rambam-avodah-zarah",
+            "rambam-berakhot",
+            "rambam-chametz",
+            "rambam-deot",
+            "rambam-keriat-shema",
+            "rambam-melakhim",
+            "rambam-shabbat",
+            "rambam-talmud-torah",
+            "rambam-tefillah",
+            "rambam-teshuvah",
+            "rambam-yesodei-hatorah"
+          ]
+        }
       ]
     },
     {
       "id": "shua",
       "title": "שולחן ערוך",
-      "file": "shua.zip",
-      "bytes": 1872095,
-      "sha256": "a6c8173402d3f7b1eeea2a0d71cfed31cd905ff97e09eb091e0a3f009eaebe51",
       "packs": [
         {
           "id": "shua-choshen-mishpat",
@@ -574,14 +659,33 @@
           "file": "shua-yoreh-deah.json",
           "bytes": 2622530
         }
+      ],
+      "chunks": [
+        {
+          "file": "shua-1.zip",
+          "bytes": 1353980,
+          "sha256": "9ccdeeaefd818eafca0901d45b4ad5f2e6fd92c08558d4ef24e7fb0dc2bdb78c",
+          "uncompressedBytes": 6944759,
+          "packs": [
+            "shua-choshen-mishpat",
+            "shua-even-haezer",
+            "shua-orach-chayim"
+          ]
+        },
+        {
+          "file": "shua-2.zip",
+          "bytes": 518137,
+          "sha256": "a8c4f54fb07a550af05b05996aa4571c96b4c27742d638cc6d4e22d28a6f83f6",
+          "uncompressedBytes": 2622530,
+          "packs": [
+            "shua-yoreh-deah"
+          ]
+        }
       ]
     },
     {
       "id": "talmud",
       "title": "תלמוד בבלי",
-      "file": "talmud.zip",
-      "bytes": 6668008,
-      "sha256": "14aea909cc0af9bb01f8e481f306e8680659c52d3e74ee178f7f2b5e16a9cc81",
       "packs": [
         {
           "id": "talmud-arakhin",
@@ -842,14 +946,98 @@
           "file": "talmud-zevachim.json",
           "bytes": 1792451
         }
+      ],
+      "chunks": [
+        {
+          "file": "talmud-1.zip",
+          "bytes": 1207354,
+          "sha256": "75571586522576a1e449beae4c85ad9e0cb9154be228abbc32dd0d988220e64e",
+          "uncompressedBytes": 8135467,
+          "packs": [
+            "talmud-arakhin",
+            "talmud-avodah-zarah",
+            "talmud-bava-batra",
+            "talmud-bava-kamma",
+            "talmud-bava-metzia"
+          ]
+        },
+        {
+          "file": "talmud-2.zip",
+          "bytes": 1148983,
+          "sha256": "fcad9a00d2e55f100116927244f58ab589a6103f2ed1985201423ff7bc2db7bf",
+          "uncompressedBytes": 7549775,
+          "packs": [
+            "talmud-beitzah",
+            "talmud-bekhorot",
+            "talmud-berakhot",
+            "talmud-chagigah",
+            "talmud-chullin",
+            "talmud-eruvin"
+          ]
+        },
+        {
+          "file": "talmud-3.zip",
+          "bytes": 1038043,
+          "sha256": "4b3a294210b35e3cf435088417b38f1c7a3db72a6ddf36cb6e813b299bb00594",
+          "uncompressedBytes": 6806247,
+          "packs": [
+            "talmud-gittin",
+            "talmud-horayot",
+            "talmud-keritot",
+            "talmud-ketubot",
+            "talmud-kiddushin",
+            "talmud-makkot",
+            "talmud-megillah",
+            "talmud-meilah"
+          ]
+        },
+        {
+          "file": "talmud-4.zip",
+          "bytes": 1154679,
+          "sha256": "de1122cabbffff5bc8150a2cc51100e5c88af71b3282478724fbe06e31222491",
+          "uncompressedBytes": 7656933,
+          "packs": [
+            "talmud-menachot",
+            "talmud-moed-katan",
+            "talmud-nazir",
+            "talmud-nedarim",
+            "talmud-niddah",
+            "talmud-pesachim",
+            "talmud-rosh-hashanah"
+          ]
+        },
+        {
+          "file": "talmud-5.zip",
+          "bytes": 1261537,
+          "sha256": "2d79ad99302769982b26066c0bd9eff7970942fb917b066d45091b770d8dd600",
+          "uncompressedBytes": 7892670,
+          "packs": [
+            "talmud-sanhedrin",
+            "talmud-shabbat",
+            "talmud-shevuot",
+            "talmud-sotah",
+            "talmud-sukkah",
+            "talmud-taanit",
+            "talmud-tamid"
+          ]
+        },
+        {
+          "file": "talmud-6.zip",
+          "bytes": 857522,
+          "sha256": "328479c5b50f3c056f3987d0bc540da83312dccce9ee375e7f1632247e858d5f",
+          "uncompressedBytes": 5682348,
+          "packs": [
+            "talmud-temurah",
+            "talmud-yevamot",
+            "talmud-yoma",
+            "talmud-zevachim"
+          ]
+        }
       ]
     },
     {
       "id": "tanakh",
       "title": "תנ״ך",
-      "file": "tanakh.zip",
-      "bytes": 1796002,
-      "sha256": "9666642621624d75a991acf52b3037158e9cc9971521fc3e28791baa7de803bf",
       "packs": [
         {
           "id": "tanakh-amos",
@@ -1123,6 +1311,63 @@
           "chapters": 14,
           "file": "tanakh-zekhariah.json",
           "bytes": 91792
+        }
+      ],
+      "chunks": [
+        {
+          "file": "tanakh-1.zip",
+          "bytes": 1534204,
+          "sha256": "3fa4859f49a8d3ec683e930cce44ab7f816ef4c615021218a910ca59860b0c6d",
+          "uncompressedBytes": 8132380,
+          "packs": [
+            "tanakh-amos",
+            "tanakh-bamidbar",
+            "tanakh-bereshit",
+            "tanakh-chaggai",
+            "tanakh-chavakuk",
+            "tanakh-daniel",
+            "tanakh-devarim",
+            "tanakh-divrei-hayamim-1",
+            "tanakh-divrei-hayamim-2",
+            "tanakh-eikhah",
+            "tanakh-esther",
+            "tanakh-ezra",
+            "tanakh-hoshea",
+            "tanakh-iyov",
+            "tanakh-kohelet",
+            "tanakh-malakhi",
+            "tanakh-melakhim-1",
+            "tanakh-melakhim-2",
+            "tanakh-mikhah",
+            "tanakh-mishlei",
+            "tanakh-nachum",
+            "tanakh-nechemiah",
+            "tanakh-ovadiah",
+            "tanakh-rut",
+            "tanakh-shemot",
+            "tanakh-shir-hashirim",
+            "tanakh-shmuel-1",
+            "tanakh-shmuel-2",
+            "tanakh-shoftim",
+            "tanakh-tehillim",
+            "tanakh-tzefaniah",
+            "tanakh-vayikra",
+            "tanakh-yechezkel",
+            "tanakh-yehoshua"
+          ]
+        },
+        {
+          "file": "tanakh-2.zip",
+          "bytes": 261820,
+          "sha256": "b527ff4db59ec3e6bbb2057176400d6aba9d64ba16d865b5e9cbe3ac0f8c3f72",
+          "uncompressedBytes": 1286119,
+          "packs": [
+            "tanakh-yeshayahu",
+            "tanakh-yirmiyahu",
+            "tanakh-yoel",
+            "tanakh-yonah",
+            "tanakh-zekhariah"
+          ]
         }
       ]
     }

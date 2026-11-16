@@ -11,28 +11,33 @@ and never touches this repository.
 
 ```
 manifest.json      # version, corpus list, per-book metadata, checksums
-packs/mishna.zip   # 63 books   (משנה)
-packs/tanakh.zip   # 39 books   (תנ"ך)
-packs/talmud.zip   # 37 books   (תלמוד בבלי)
-packs/rambam.zip   # 11 books   (רמב"ם)
-packs/shua.zip     # 4 books    (שולחן ערוך)
+packs/mishna-1.zip # 63 books   (משנה)
+packs/tanakh-1.zip # 20 books   (תנ"ך)
+packs/tanakh-2.zip # 19 books
+packs/talmud-1.zip … talmud-6.zip (37 books)
+packs/rambam-1.zip # 11 books   (רמב"ם)
+packs/shua-1.zip   # 2 books    (שולחן ערוך)
+packs/shua-2.zip   # 2 books
 ```
 
 Every ZIP holds one JSON file per book — exactly the same `OfflinePack` shape
 the app uses (`id`, `title`, `corpus`, `totalChapters`, `chapters[]`), so the
 mobile app and the web app read identical data.
 
+A corpus is split into **chunks** so the app never has to unpack more than
+8 MB of text at once — cheap phones stay happy. `manifest.json` lists which
+books live in which chunk.
+
 ## Download URLs
 
 ```text
-https://github.com/sniffis-commits/shinena-texts/releases/download/v1/mishna.zip
-https://github.com/sniffis-commits/shinena-texts/releases/download/v1/tanakh.zip
-https://github.com/sniffis-commits/shinena-texts/releases/download/v1/talmud.zip
-https://github.com/sniffis-commits/shinena-texts/releases/download/v1/rambam.zip
-https://github.com/sniffis-commits/shinena-texts/releases/download/v1/shua.zip
+https://github.com/sniffis-commits/shinena-texts/releases/download/v1/mishna-1.zip
+https://github.com/sniffis-commits/shinena-texts/releases/download/v1/tanakh-1.zip
+…
 ```
 
-`manifest.json` lives next to them:
+`manifest.json` lives next to them — the app always reads it first and then
+downloads exactly the chunks it still needs:
 
 ```text
 https://github.com/sniffis-commits/shinena-texts/releases/download/v1/manifest.json
